@@ -2,7 +2,6 @@
 <p>This code creates a fully functional Udemy clone with enhanced features, including a course content viewer and an AI assistant chatbot. The implementation uses HTML, CSS, and JavaScript to create a responsive educational platform that mimics Udemy's core functionality.</p>
 
 <h2>Key Components</h2>
-
 <h3>1. Main Page Structure</h3>
 <ul>
     <li><strong>Header Navigation:</strong> Includes logo, categories dropdown, search functionality, and user account options</li>
